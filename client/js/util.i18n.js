@@ -142,7 +142,7 @@ const LANGUAGES = {
 			'meta.twitter_description': 'NodeCrypt 是一个端到端加密的开源聊天系统，所有加密解密均在客户端本地完成，服务器无法获取明文。',
 			
 			// Login and main UI
-			'ui.enter_node': '私密聊天室',
+			'ui.enter_node': '聊天室',
 			'ui.username': '输入昵称',
 			'ui.node_name': '设置聊天室名称',
 			'ui.node_password': '设置密码',
@@ -221,11 +221,11 @@ const LANGUAGES = {
 			'help.title': '使用说明',
 			'help.back_to_login': '返回登录',
 			'help.usage_guide': '使用说明',
-			'help.what_is_nodecrypt': '🔐 什么是 NodeCrypt？',			'help.what_is_nodecrypt_desc': 'NodeCrypt 是一个真正的端到端加密聊天系统。采用无数据库架构，所有消息在您的设备上本地加密，服务器仅作为加密数据的中转站，无法获取您的任何明文内容。',
+			'help.what_is_nodecrypt': '🔐 Chat Room介绍？',			'help.what_is_nodecrypt_desc': '本Chat Room 是一个真正的端到端加密聊天系统。采用无数据库架构，所有消息在您的设备上本地加密，服务器仅作为加密数据的中转站，无法获取您的任何明文内容。',
 			'help.how_to_start': '🚀 快速开始',
 			'help.step_username': '输入用户名',
 			'help.step_username_desc': '选择一个在房间中显示的昵称，可以是任何您喜欢的名称',
-			'help.step_node_name': '设置节点名',
+			'help.step_node_name': '设置聊天室名称',
 			'help.step_node_name_desc': '房间的唯一标识符，相当于房间号',
 			'help.step_password': '设置节点密码',
 			'help.step_password_desc': '用于区分不同房间，同时参与加密过程，提升安全性',
