@@ -227,7 +227,7 @@ const LANGUAGES = {
 			'help.step_username_desc': '选择一个在房间中显示的昵称，可以是任何您喜欢的名称',
 			'help.step_node_name': '设置聊天室名称',
 			'help.step_node_name_desc': '房间的唯一标识符，相当于房间号',
-			'help.step_password': '设置节点密码',
+			'help.step_password': '设置聊天室密码',
 			'help.step_password_desc': '用于区分不同房间，同时参与加密过程，提升安全性',
 			'help.step_join': '点击"加入房间"',
 			'help.step_join_desc': '系统将自动生成加密密钥，开始安全聊天',
