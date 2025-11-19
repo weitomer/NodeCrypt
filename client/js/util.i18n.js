@@ -142,9 +142,9 @@ const LANGUAGES = {
 			'meta.twitter_description': 'NodeCrypt 是一个端到端加密的开源聊天系统，所有加密解密均在客户端本地完成，服务器无法获取明文。',
 			
 			// Login and main UI
-			'ui.enter_node': 'Chat Room Setting',
+			'ui.enter_node': '私密聊天室',
 			'ui.username': '输入昵称',
-			'ui.node_name': '设置Chat Room名称',
+			'ui.node_name': '设置聊天室名称',
 			'ui.node_password': '设置密码',
 			'ui.optional': '（可选）',
 			'ui.enter': '确定',
